@@ -1,2 +1,2 @@
 # GochiusaLover.github.io
-Webpage [I'll stop writing this 'cause I wanna learn Lua.]
+Webpage [my twitter を すこれ]
